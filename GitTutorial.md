@@ -22,3 +22,13 @@ after adding remote git repo
 > - git add somefile         //添加文件
 > - git commit -m "comments" //提交
 > - git push -u origin master//推送到Github仓库
+
+
+		git checkout -b dev 
+ 
+ 与
+ 
+		git branch dev//创建分支
+		git checkout dev//切换分支
+		
+等价
