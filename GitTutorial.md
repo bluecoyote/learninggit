@@ -32,3 +32,11 @@ after adding remote git repo
 		git checkout dev//切换分支
 		
 等价
+
+平时开发中多用git分支，master分支用来发布稳定版，dev分支用来进行开发；开发中每人都有自己的分支，时不时往dev分支合并就好了。
+
+##### 参与开源
+- 首先fork开源项目
+- git clone 到本地
+- 提交修改
+- 发送 pull request 给原项目作者
