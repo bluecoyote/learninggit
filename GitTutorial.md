@@ -24,6 +24,15 @@ after adding remote git repo
 > - git push -u origin master//推送到Github仓库
 
 
+#### 本地库关联github仓库
+- 首先在Github上创建仓库，具体步骤在Github页面傻瓜式操作即可...
+- 在本地仓库根目录(learninggit)下执行下列命令
+
+		git remote add origin git@github.com:bluecoyote/target.git
+
+
+.
+
 		git checkout -b dev 
  
  与
